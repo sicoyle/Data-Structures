@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samantha/CLionProjects/homework4_4/Motor.cpp
+Motor.h
+C:/Users/Samantha/CLionProjects/homework4_4/Motor.h
+
+C:/Users/Samantha/CLionProjects/homework4_4/Motor.h
+
+C:/Users/Samantha/CLionProjects/homework4_4/Turbo.cpp
+Turbo.h
+C:/Users/Samantha/CLionProjects/homework4_4/Turbo.h
+
+C:/Users/Samantha/CLionProjects/homework4_4/Turbo.h
+Motor.h
+C:/Users/Samantha/CLionProjects/homework4_4/Motor.h
+
+C:/Users/Samantha/CLionProjects/homework4_4/main.cpp
+iostream
+-
+Motor.h
+C:/Users/Samantha/CLionProjects/homework4_4/Motor.h
+Turbo.h
+C:/Users/Samantha/CLionProjects/homework4_4/Turbo.h
+
