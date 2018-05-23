@@ -1,0 +1,3 @@
+C:/Users/Samantha/CLionProjects/hello_greg/cmake-build-debug/CMakeFiles/hello_greg.dir
+C:/Users/Samantha/CLionProjects/hello_greg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samantha/CLionProjects/hello_greg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
