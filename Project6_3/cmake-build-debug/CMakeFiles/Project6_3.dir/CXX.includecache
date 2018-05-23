@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samantha/CLionProjects/Project6_3/horrorDash.cpp
+sstream
+-
+iostream
+-
+fstream
+-
+cmath
+-
+stdio.h
+-
+vector
+-
+algorithm
+-
+string
+-
+list
+-
+limits
+-
+fstream
+-
+
