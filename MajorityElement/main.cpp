@@ -1,3 +1,5 @@
+//Created by Samantha Coyle on 2/5/2018.
+
 /* C Program to check for majority element in a sorted array */
 # include <stdio.h>
 # include <stdbool.h>
